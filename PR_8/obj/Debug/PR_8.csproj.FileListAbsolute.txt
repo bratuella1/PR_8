@@ -1,0 +1,8 @@
+C:\Users\Arthur\Desktop\C#\PR_8\PR_8\bin\Debug\PR_8.exe.config
+C:\Users\Arthur\Desktop\C#\PR_8\PR_8\bin\Debug\PR_8.exe
+C:\Users\Arthur\Desktop\C#\PR_8\PR_8\bin\Debug\PR_8.pdb
+C:\Users\Arthur\Desktop\C#\PR_8\PR_8\obj\Debug\PR_8.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\C#\PR_8\PR_8\obj\Debug\PR_8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arthur\Desktop\C#\PR_8\PR_8\obj\Debug\PR_8.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\C#\PR_8\PR_8\obj\Debug\PR_8.exe
+C:\Users\Arthur\Desktop\C#\PR_8\PR_8\obj\Debug\PR_8.pdb
